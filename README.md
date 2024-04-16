@@ -23,7 +23,9 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 
 ## Markdown
 
+
 _Welcome to "Communicate using Markdown"! :wave:_
+![download](https://github.com/adarsh4j/skills-communicate-using-markdown/assets/78248655/66ed0528-449a-4f6b-a701-e73c97807e8c)
 
 **What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for communicating on GitHub. You can format text to add a heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown in most places around GitHub:
 
@@ -42,7 +44,11 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 ###### This is an `<h6>` header, which is the smallest
 ```
-
+```javascript
+var a=10;
+var b=4;
+var c = a+b;
+```
 #### How it looks
 
 # This is an `<h1>` header, which is the largest
@@ -64,7 +70,9 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file.
 1. Click **Commit changes**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
+- [x] Completed
+- [ ] Partially Completed
+- [ ] Uncompleted
 <footer>
 
 <!--
